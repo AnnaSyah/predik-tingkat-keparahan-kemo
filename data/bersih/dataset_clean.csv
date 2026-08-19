@@ -1,0 +1,101 @@
+no,nama_anak,jenis_kelamin,diagnosis,lama_terdiagnosis,protokol_kemo,riwayat_ranap,mual,muntah,fatigue,diare,konstipasi,mukositis,nyeri,dukungan_keluarga,hb,leukosit,neutrofil,trombosit,suhu,usia_tahun,siklus_ke,target_severity
+1,Chalista,1,Kanker otot,1 bulan,Protokol VAC,ya,1,2,3,2,2,0,1,2,9.5,15370.0,6500.0,113000,36.5,0.3333333333333333,1,0
+2,Azzam,0,Leukemia Limfoblastik Akut (LLA),3 tahun,Konsolidasi ALL,ya,1,1,1,1,0,0,1,2,9.0,2000.0,1200.0,9000,36.8,6.0,2,1
+3,Renno,0,Leukimia (AML) ,5 bulan ,AML Protocol,ya,2,0,2,0,1,0,2,2,14.2,8420.0,6600.0,27300,36.6,11.0,10,1
+4,Serly,1,cancer pain,1 tahun,Konsolidasi,ya,2,2,2,1,2,0,2,2,8.3,11550.0,6700.0,78300,37.5,16.0,2,1
+5,Ratih,1,Tumor Ovarium,5 bulan,Konsolidasi,ya,1,1,2,0,0,0,2,2,9.8,4500.0,1500.0,160000,36.5,13.0,1,2
+6,Sanya,1,Leukemia Limfoblastik Akut (LLA),3 tahun,Induction ALL,ya,2,1,1,1,1,3,3,2,13.0,3250.0,5000.0,179000,37.6,16.0,6,2
+7,Abiyan,0,osteosarkoma ,9 bulan,Protokol MAP,ya,2,1,1,0,1,0,3,2,10.0,3100.0,5000.0,168000,36.3,16.0,5,1
+8,Fauzi,0,Limfoma Hodgkin,4 bulan,Konsolidasi COPP,ya,1,1,2,0,1,0,1,2,11.0,10000.0,7000.0,88000,37.0,15.0,24,1
+9,Hatis,0,Limfoma non hodgkin,6 bulan,Konsolidasi COPP,ya,2,2,2,2,2,1,2,2,9.5,8560.0,6000.0,165000,36.2,11.0,3,1
+10,Adiba,0,Limfoma non hodgkin,8 bulan,Konsolidasi COPP,ya,2,2,2,2,2,1,2,2,10.8,7930.0,4000.0,727000,36.7,10.0,10,1
+11,Fajar trianto,0,Leukemia Limfoblastik Akut (LLA),1 bulan,Induction ALL ,ya,0,0,2,0,1,0,2,2,11.8,21660.0,5000.0,30000,38.1,5.0,1,1
+12,Fahri putra,0,Limfoma non hodgkin,6 bulan ,Konsolidasi COPP,Ya,2,2,3,0,2,2,3,2,13.5,5000.0,1600.0,210000,37.0,17.0,3,1
+13,Hendra pegi,0,Limfoma Non-Hodgkin,4 bulan,Konsolidasi COPP,Ya,1,1,1,2,2,1,2,2,14.0,5000.0,1900.0,300000,36.5,11.0,3,1
+14,Adli,0,Osteosarkoma,5 bulan,Protokol MAP,Ya,2,2,2,0,1,2,2,2,8.0,4.2,1600.0,139000,37.5,16.0,6,1
+15,Arkanza,0,ALL,12 bulan,"Induction ALL , Maintenance",Ya,1,1,1,0,1,2,2,2,11.0,6.9,2000.0,166000,36.7,2.0,53,0
+16,Arsyat,0,Limfoma non hodgkin,4 bulan,Konsolidasi COPP,Ya,2,2,1,1,1,1,2,2,11.0,4500.0,3000.0,205000,36.8,10.0,3,0
+17,Luthfi,0,Osteosarcoma,6 minggu,Protokol MAP,Ya,1,1,2,1,1,1,3,2,8.8,15350.0,7900.0,689000,38.4,16.0,1,1
+18,Muhammad Umar alghifari,0,Tumor wilm,1 tahun 6 bulan,Protokol SIOP,Ya,1,2,1,1,1,1,1,2,10.7,7640.0,2200.0,277000,36.5,3.0,28,0
+19,Eca putri,1,"Agranulositosis, limfoma non hodgkin",Sebulan,Konsolidasi COPP,Ya,2,2,2,2,2,2,1,2,12.2,22.01,5200.0,237000,36.7,15.0,3,1
+20,Akbar muhamadan,0,Limfoma non hodgkin,1 bulan,Konsolidasi COPP,Ya,2,2,3,2,1,2,2,2,9.1,1220.0,6000.0,136000,36.4,14.0,1,2
+21,Arka Wiriyawan,0,Ca Nasofaring,1 tahun 6 bulan ,Kemoterapi Konkomitan,Ya,3,3,2,2,0,0,1,2,10.0,4000.0,1500.0,150000,36.6,12.0,3,2
+22,Abyan Saputra,0,Sindrom Nefrotik Ressisten Steroid,7 bulan ,kemoterapi CPA,Ya,3,3,1,0,0,1,3,2,10.0,4000.0,1500.0,150000,36.6,6.833333333333333,2,2
+23,Azwan,0,Leukemia Limfoblastik Akut (LLA),8 bulan,Induction ALL,Ya,0,0,2,0,1,1,1,2,9.2,3500.0,1200.0,150000,37.8,5.0,4,0
+24,shanum,1,All,kurang lebih 4 tahun,Konsolidasi ALL,Ya,1,1,3,0,0,0,1,2,11.3,7920.0,1000.0,274000,36.8,7.0,36,1
+25,Adiba,1,ALL,kurang lebih 5 bulan,Konsolidasi ALL,Ya,2,2,3,0,0,0,2,2,10.3,4530.0,5000.0,390000,37.1,4.0,2,1
+26,Aqilah,1,Ewing sarkoma,kurang lebih 1 tahun,Protokol VDC,Ya,2,2,3,0,0,0,2,2,8.8,1800.0,3000.0,83000,36.6,13.0,10,2
+27,fakhri faizullah,0,limfoma non hodgkin ,6 bulan,protokol COPP,Ya,3,3,3,0,1,1,2,2,11.7,9410.0,1000.0,359000,36.8,16.0,1,2
+28,Hendra pegi,0,limfoma non hodgkin ,6 bulan,protokol COPP,Ya,1,0,3,2,0,3,3,2,8.7,1280.0,6000.0,178000,37.1,11.0,24,2
+29,Humaira,1,Ewing sarcoma, Lebih kurang 1 bulan,Protokol VDC,Ya,1,1,1,0,1,1,1,2,10.1,28590.0,5700.0,48000,37.2,2.0,5,0
+30,zidan faturrahman,0,ewing sarcoma,1 bulan,Protokol VDC,Ya,3,3,3,2,2,2,2,2,10.7,7100.0,1000.0,387000,36.4,5.0,4,2
+31,An. A,1,ALL,4 tahun,Induction ALL ,Ya,2,1,2,0,1,1,2,2,4.0,61000.0,1800.0,75000,37.6,4.0,2,1
+32,Rahmad Takdir,0,Ca nasofaring,3 bulan yg lalu,Protokol PF,Ya,2,2,2,0,2,0,2,2,10.3,16490.0,800.0,585000,36.6,13.0,1,1
+33,M. Ilham Nur Falla,0,Ca nasofaring,1 tahun,Protokol PF,Ya,1,1,1,0,0,0,0,2,12.1,3630.0,5400.0,249000,36.6,15.0,3,0
+34,Franzzly wanner,0,ALL,3 bulan,Maintenance ALL,Ya,0,0,1,0,0,0,0,2,9.5,10290.0,2700.0,231000,36.1,9.0,7,0
+35,Arsyad abdul,1,limfoma non hodgkin ,6 bulan,protokol COPP,Ya,2,1,2,1,0,0,0,2,11.3,7320.0,4600.0,536000,35.9,10.0,4,0
+36,Misha Aufaa Atoni,1,All,1 tahun,Konsolidasi ALL,Ya,2,1,0,0,1,0,1,2,14.2,8420.0,6600.0,273000,36.6,5.0,4,0
+37,aidil,0,osteosarkoma ,2 tahun,Protokol MAP,Ya,0,2,2,0,0,0,1,1,9.3,9300.0,2800.0,170000,36.8,16.0,6,0
+38,Vania nur eliza,1,Leukimia (AML) ,1 tahun 2 bulan,AML Protocol ,Ya,1,1,3,0,0,0,2,2,11.4,4300.0,4000.0,8000,36.1,11.0,3,0
+39,Nazwa,1,Nefroblastoma,1tahun 4 bulan,Protokol SIOP,Ya,0,0,2,1,0,0,2,2,10.1,9000.0,5400.0,325000,35.8,2.0,3,0
+40,Haidar,0,limfoma non hodgkin ,1 bulan lebih,protokol COPP,Ya,1,1,1,0,0,0,1,2,12.8,7070.0,5300.0,247000,36.0,6.0,1,0
+41,Lavanya gisal nasera,1,Medulloblastoma,8 bulan,protokol kemoterapi intensif,Ya,1,0,0,0,0,0,2,2,10.5,8700.0,1700.0,649000,36.2,0.6666666666666666,18,0
+42,Zelina putri rahmadani rakutu,1,Retinol blastoma,7 bulan,Protokol VEC,Ya,0,0,0,1,0,0,2,2,9.6,11930.0,2600.0,597000,36.5,1.5,4,0
+43,Khadijah,1,Medulo blastoma,1 tahun,Protokol Risiko Tinggi,Ya,1,2,2,0,2,0,2,2,11.4,1000.0,3000.0,201000,36.0,4.0,6,1
+44,Lavanya,1,limfoma non hodgkin ,6 bulan,protokol COPP,Ya,1,1,2,0,0,0,2,2,9.8,12000.0,7900.0,487000,36.5,0.6666666666666666,4,1
+45,M.rizqi ramadhan,0,All,4 bulan,Konsolidasi ALL,Ya,2,2,2,0,0,0,2,2,12.2,6070.0,4500.0,622000,36.5,12.0,3,1
+46,Naswa,1,Nefro blastoma,2 tahun,Cyclophosphamide,Ya,0,0,1,0,0,0,3,2,8.0,4500.0,8500.0,261000,36.5,2.0,4,1
+47,Muhammad rafie,0,ALL,2 bulan,Konsolidasi ALL,Ya,0,0,1,0,0,0,2,2,9.3,1190.0,5300.0,98000,36.5,7.333333333333333,4,0
+48,Septian ramadhan,0,Osteosarkoma,6 bulan,Protokol MAP,Ya,1,0,2,0,0,0,3,2,9.2,12000.0,5000.0,150000,36.5,17.0,2,0
+49,Vania nur,1,AML,1 Tahuan setengah,AML Protocol ,Ya,1,1,2,0,0,0,3,2,8.5,78860.0,2000.0,41000,36.5,11.416666666666666,1,1
+50,Ahmad muhaidi,0,Jamsel tumor,2 tahun,Protokol PEB,Ya,0,0,2,0,0,1,3,2,8.2,5500.0,4000.0,25000,36.4,17.0,2,0
+51,Eca,1,Limfoma Hodgkin,2 bulan,Konsolidasi COPP,Ya,0,0,0,0,0,0,2,2,9.4,1900.0,7800.0,264000,36.6,15.0,1,0
+52,Renisa putri,1,CA Ovarium,4 bulan,Protokol BEP,Ya,1,1,1,0,0,1,2,2,8.6,5000.0,4000.0,150000,36.5,13.0,2,0
+53,Fathian alfarizki,0,ALL,4 bulan,Konsolidasi ALL,Tidak,0,0,2,0,0,0,2,2,13.0,15010.0,4600.0,521000,36.5,5.0,2,1
+54,Elviya saputri,1,ALL,2 minggu,Konsolidasi ALL,Ya,0,0,0,0,0,0,2,2,11.2,10000.0,4500.0,50000,36.5,3.1666666666666665,2,0
+55,Muhammad fadlan,0,ALL,"1,5 tahun",Konsolidasi ALL,Ya,0,0,1,0,0,0,2,2,6.8,45000.0,5000.0,54000,36.5,6.0,40,0
+56,Shanum gadia anendiya,1,ALL,2023,Induction ALL ,Ya,2,2,2,0,1,1,2,2,9.0,6000.0,8500.0,268000,36.7,7.0,2,1
+57,Afif yusuf,0,AML,2 bulan,AML Protocol ,Tidak,1,0,1,0,0,0,2,2,14.2,8420.0,6600.0,273000,36.6,2.0,2,1
+58,Haidar ,0,LIMPOMA non hodgkin,2 bulan,Konsolidasi COPP,Ya,1,1,1,0,0,0,1,2,10.3,8410.0,1000.0,289000,38.2,6.333333333333333,3,0
+59,Khadijah Safia Mecca,1,Meduloblastoma,1 tahun,Protokol Risiko Tinggi,Ya,2,2,2,0,0,0,0,2,11.4,10000.0,7800.0,300000,36.7,4.0,6,1
+60,Khaleed zano syatra,0,Meduloblastoma,9 bulan,Protokol Risiko Tinggi,Ya,1,0,1,0,0,0,1,2,10.3,2000.0,3900.0,279000,37.2,1.4166666666666667,8,0
+61,Whandy maulana,0,ALL,7 bulan,Induction ALL ,Ya,3,2,1,0,1,0,2,2,12.1,5440.0,1000.0,238000,36.7,12.0,3,0
+62,Zhiandra Akbar,0,Leukimia All HR,Januari 2026,Induction ALL,Ya,1,1,1,1,0,1,1,2,10.9,13560.0,6000.0,252000,36.0,4.5,3,0
+63,Indra pegi,0,LIMPOMA non hodgkin,7 bulan,Konsolidasi COPP,Tidak,2,2,1,0,0,0,3,2,10.3,6000.0,4000.0,257000,36.7,11.0,3,1
+64,Adiba,1,Leukemia ALL,6 bulan,Induction ALL,Ya,2,1,0,0,0,1,3,2,11.0,10330.0,6500.0,27000,36.8,4.0,3,0
+65,Arsyad,0,LIMPOMA NON HODKING,7 bulan,Konsolidasi COPP,Ya,2,2,1,2,0,0,3,2,10.0,6580.0,6100.0,501000,36.8,11.0,12,1
+66,Rahmat Takdir,0,Kanker Nasofaring,5 bulan,Protokol PF,Ya,2,2,1,0,1,2,3,2,10.4,5150.0,7500.0,467000,36.8,14.0,2,1
+67,Kenzi,0,LIMPOMA non hodgkin,8 bulan,Konsolidasi COPP,Ya,2,2,1,0,0,0,1,2,8.9,6780.0,5600.0,278000,37.1,7.0,6,1
+68,Vania,1,AML,3 tahun,AML Protocol,Ya,1,0,1,0,0,0,3,2,7.0,56000.0,6500.0,55000,39.0,11.0,3,1
+69,M. Farlan,0,Osteosarcoma,1 tahun lebih,Protokol MAP,Ya,1,1,1,0,0,0,3,2,8.9,70000.0,5600.0,123000,37.8,15.0,11,0
+70,Fatan,0,All,8 hari,Induction ALL ,Tidak,1,1,2,0,1,1,3,1,9.2,110000.0,6700.0,145000,38.0,8.0,1,1
+71,Khaidar,0,ALL,7 bulan,Induction ALL ,Tidak,1,1,1,0,0,0,1,2,10.0,10290.0,5300.0,245000,36.2,6.0,6,0
+72,Giska,1,ALL,10 bulan,AML Protocol ,Ya,1,1,1,0,0,2,3,2,10.0,16940.0,7400.0,134000,38.0,5.0,8,1
+73,Kurnia,0,LIMPOMA non hodgkin,9 bulan,Konsolidasi COPP,Ya,2,2,1,0,0,0,1,2,10.3,8410.0,1000.0,289000,38.2,8.0,10,1
+74, Akbar,0,Leukimia All HR,4 bulan,Induction ALL,Ya,1,1,1,1,0,1,1,2,9.8,11230.0,5000.0,278000,37.2,6.0,3,0
+75,Yusuf,0,AML,3 bulan,AML Protocol ,Tidak,1,0,1,0,0,0,3,2,9.6,12500.0,6000.0,150000,38.4,3.0,2,1
+76,Ibrar,0,LIMPOMA non hodgkin,2 bulan,Konsolidasi COPP,Ya,0,0,1,0,0,0,1,2,10.0,11050.0,7000.0,126000,37.8,7.333333333333333,3,0
+77,Septianda rahmad,0,Osteosarkoma,7 bulan,Protokol MAP,Ya,1,0,2,0,0,0,3,2,8.9,13000.0,4500.0,165000,37.3,16.0,2,0
+78,Arkana,0,ALL,10 bulan,Maintenance ALL,Ya,1,1,1,0,1,2,2,2,10.0,7200.0,2000.0,166000,37.3,3.0,53,1
+79,Zeril Mayesa,1,ALL,3 tahun,Induction ALL ,Ya,2,2,2,0,1,1,2,2,9.0,6000.0,8500.0,268000,36.7,7.0,2,1
+80,Muhammad zaki,0,ALL,2 bulan,Konsolidasi ALL,Ya,0,0,1,0,0,0,2,2,9.3,1190.0,5300.0,98000,36.5,8.333333333333334,4,0
+81,Adinta keisifa,1,Leukemia ALL,6 bulan,Induction ALL,Ya,2,1,0,0,0,1,3,2,11.0,103300.0,4900.0,27000,36.8,5.0,3,0
+82,rizqi kurnia,0,All,5 bulan,Induction ALL ,Ya,2,2,2,0,0,0,2,2,12.2,6070.0,4500.0,62200,36.5,11.0,3,1
+83,Genta,0,LIMPOMA NON HODKING,7 bulan,Konsolidasi COPP,Ya,2,2,1,2,0,0,3,2,11.0,7580.0,9100.0,278000,36.8,10.0,12,1
+84,verel,1,AML,2 tahun,AML Protocol,Ya,1,0,1,0,0,0,3,2,8.0,56000.0,6800.0,59000,39.0,12.0,3,0
+85,kenzi,0,Leukimia All HR,7 bulan,Induction ALL,Ya,1,1,1,1,0,1,2,2,8.8,10230.0,5500.0,280000,37.2,9.0,3,0
+86,Fauzan,0,All,10 hari,Induction ALL ,Tidak,1,1,2,0,1,1,3,1,9.7,123000.0,7200.0,155000,38.0,9.0,1,1
+87,Khaza,0,ALL,7 bulan,Induction ALL ,Tidak,1,1,1,0,0,0,1,2,10.0,98000.0,5400.0,225000,36.2,5.0,6,0
+88,Gina,1,ALL,10 bulan,AML Protocol ,Ya,1,1,1,0,0,2,3,2,9.3,10670.0,7400.0,134000,38.0,8.0,8,1
+89, nur vaza,1,Leukimia (AML) ,1 tahun 3 bulan,AML Protocol,Ya,1,1,3,0,0,0,2,2,11.4,4300.0,4000.0,8000,36.1,10.0,3,1
+90,ataya,0,LIMPOMA NON HODKING,8  bulan,Konsolidasi COPP,Ya,2,2,1,2,0,0,3,2,10.0,6580.0,6100.0,501000,36.8,12.0,12,1
+91,Arkana,0,ALL,18 bulan,Maintenance ALL,Ya,1,1,1,0,1,2,2,2,11.0,8200.0,5000.0,176000,37.3,3.0,53,0
+92,Marisa,1,ALL,"2,5 tahun",Induction ALL ,Ya,2,2,2,0,1,1,2,2,10.0,7400.0,8300.0,278000,36.7,9.0,2,1
+93,Kenzi Atayha,0,ALL,3 bulan,Konsolidasi ALL,Ya,0,0,1,0,0,0,2,2,8.3,5600.0,6300.0,89000,36.5,6.416666666666667,5,0
+94,Adinda Ayana,1,Leukemia ALL,6 bulan,Induction ALL,Ya,2,1,0,0,0,1,3,2,11.2,124300.0,5100.0,45000,37.8,6.0,4,0
+95,Mulya sandi,0,All,6  bulan,Induction ALL ,Ya,2,2,2,0,0,0,2,2,11.2,7200.0,5700.0,456000,36.5,12.0,3,1
+96,Rigel,0,osteosarkoma ,4 tahun,Protokol MAP,Ya,0,2,2,0,0,0,1,2,9.3,10200.0,2800.0,165000,36.8,13.0,6,0
+97,Khalid ,0,Meduloblastoma,2 tahun,Protokol Risiko Tinggi,Ya,1,0,1,0,1,0,0,2,11.3,7200.0,3800.0,279000,37.2,2.4166666666666665,7,0
+98,Azami,0,LIMPOMA non hodgkin,8 bulan,Konsolidasi COPP,Ya,2,2,1,0,0,0,1,2,9.9,7780.0,6600.0,288000,37.7,8.0,6,1
+99,Yunus,0,AML,3 bulan,AML Protocol ,Tidak,1,0,1,1,0,0,3,2,9.3,12700.0,6500.0,156000,37.4,12.0,2,0
+100,Karina ,1,Leukemia ALL,7 bulan,Induction ALL,Ya,2,1,0,0,0,1,3,2,10.2,102300.0,4700.0,28000,36.8,6.0,3,1
